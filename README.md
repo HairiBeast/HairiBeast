@@ -1,10 +1,11 @@
-Hi there 👋
-My name is Harri and I live in Exeter, Devon. Previously, I was a parimary school teacher, but I am just about to embark on alearning journey (and complete career change!) with School of Code.
-- 🔭 I’m currently working on coding! I'm trying to find that balance between immersion and not overwhelming myself.
-- 🌱 I’m currently learning HTML5 and CSS has been the most recent thing.
-- 👯 I’m looking to collaborate on who knows! But I'm open to ideas.
-- 🤔 I’m looking for help with honestly? Anything coding related. The more help the better!
+### Hi, I'm Harri 👋
+Currently transitioning into the tech industry after a fulfilling decade of teaching. 
+I have always had an interest in tech, such as building my own computer and tinkering with software and hardware. Now, School of Code has given me the opportunity I felt I had missed earlier in my life. 
+I bring a wealth of transferable skills which have been invaluable when working within Agile team. I enjoy the process of creating intuitive UI/UX and applying front-end and back-end skills.
+- 🔭 I’m currently working on freelance design work, Largely landing pages for medical professionals in the US.
+- 🌱 I’m currently learning more design skills in both Adobe XD and Figma.
+- 👯 I’m looking to collaborate on projects, so feel free to get in touch!
+- 🤔 I’m looking for any tips and tricks or general advice on design!
 - 💬 Ask me about: Bees, the outdoors, places to go in the Southwest, video games!
-- 📫 How to reach me: On here for now I suppose. I'm also on instagram and Twitter - both @hairibeast
+- 📫 How to reach me: Twitter and instagram (same username)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm Vegan (but friendly!)

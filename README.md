@@ -1,5 +1,5 @@
-### Hi, I'm Harri 👋
-## My current portfolio can be viewed at www.harribestdesign.uk
+## Hi, I'm Harri 👋
+### My current portfolio can be viewed at www.harribestdesign.uk
 Currently transitioning into the tech industry after a fulfilling decade of teaching. 
 I have always had an interest in tech, such as building my own computer and tinkering with software and hardware. Now, School of Code has given me the opportunity I felt I had missed earlier in my life. 
 I bring a wealth of transferable skills which have been invaluable when working within Agile team. I enjoy the process of creating intuitive UI/UX and applying front-end and back-end skills.
